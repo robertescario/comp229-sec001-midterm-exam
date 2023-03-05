@@ -1,3 +1,10 @@
+/*
+Filename: books.js
+Author: Robert Escario
+Student ID: 301330426
+WebAppName: Favourite Book List
+ */
+
 let mongoose = require('mongoose');
 
 // create a model class

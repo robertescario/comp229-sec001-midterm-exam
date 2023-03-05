@@ -1,4 +1,11 @@
-// moddules for node and express
+/*
+Filename: app.js
+Author: Robert Escario
+Student ID: 301330426
+WebAppName: Favourite Book List
+ */
+
+// modules for node and express
 let createError = require('http-errors');
 let express = require('express');
 let path = require('path');

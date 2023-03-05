@@ -1,3 +1,9 @@
+/*
+Filename: server.js
+Author: Robert Escario
+Student ID: 301330426
+WebAppName: Favourite Book List
+ */
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
